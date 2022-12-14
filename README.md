@@ -4,6 +4,9 @@ ___
 
 ## Example Usage of Car Factory API
 
+### Postman Collection
+* You can import postman collection from  'CarFactory.postman_collection.json'
+---
 ### Perform a get request to retrieve all valid car types.
 ```shell script
 'GET' http://localhost:8080/api/cars
@@ -32,3 +35,5 @@ ___
     "message": "Cabrio Car has produced."
 }
 ```
+---
+
